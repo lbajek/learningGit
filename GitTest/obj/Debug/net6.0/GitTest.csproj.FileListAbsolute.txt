@@ -1,0 +1,15 @@
+C:\GitLearn\GitTest\bin\Debug\net6.0\GitTest.exe
+C:\GitLearn\GitTest\bin\Debug\net6.0\GitTest.deps.json
+C:\GitLearn\GitTest\bin\Debug\net6.0\GitTest.runtimeconfig.json
+C:\GitLearn\GitTest\bin\Debug\net6.0\GitTest.dll
+C:\GitLearn\GitTest\bin\Debug\net6.0\ref\GitTest.dll
+C:\GitLearn\GitTest\bin\Debug\net6.0\GitTest.pdb
+C:\GitLearn\GitTest\obj\Debug\net6.0\GitTest.csproj.AssemblyReference.cache
+C:\GitLearn\GitTest\obj\Debug\net6.0\GitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitLearn\GitTest\obj\Debug\net6.0\GitTest.AssemblyInfoInputs.cache
+C:\GitLearn\GitTest\obj\Debug\net6.0\GitTest.AssemblyInfo.cs
+C:\GitLearn\GitTest\obj\Debug\net6.0\GitTest.csproj.CoreCompileInputs.cache
+C:\GitLearn\GitTest\obj\Debug\net6.0\GitTest.dll
+C:\GitLearn\GitTest\obj\Debug\net6.0\ref\GitTest.dll
+C:\GitLearn\GitTest\obj\Debug\net6.0\GitTest.pdb
+C:\GitLearn\GitTest\obj\Debug\net6.0\GitTest.genruntimeconfig.cache
